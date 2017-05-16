@@ -11,9 +11,7 @@ npm install
 #start the server http//localhost:8080 and run the code
 npm run dev
 ```
-<br>
-
-使用用技术: vue1.x＋webpack1.x＋es6＋vue-resource＋vue-router＋css3＋html5
+使用用技术：vue1.x＋webpack1.x＋es6＋vue-resource＋vue-router＋css3＋html5
 <br>
 ##项目创建步骤
 <br>
@@ -41,8 +39,7 @@ npm install
 #run the project
 npm run dev
 ```
-<br>
-在运行 vue init webpack#1.0 sellwebapp后，需要依次输入以下配置项:
+在运行 vue init webpack#1.0 sellwebapp后，需要依次输入以下配置项：
 <br>
 ```
 * 项目名称
@@ -54,9 +51,9 @@ npm run dev
 * 是否使用Karma + Mocha的单元测试
 * 是否使用Nightwatch e2e测试
 ```
-<br>
 安装成功后，即可执行npm run dev运行项目。
 <br>
+
 ##项目功能模块
 <br>
 ```
@@ -65,9 +62,7 @@ npm run dev
 * 评价列表页
 * 商家详情页
 ```
-<br>
 ##License
-<br>
 The sellwebapp is available under the MIT license. See the LICENSE file for more info.
 
 

@@ -45,10 +45,10 @@ npm run dev
 在运行 vue init webpack#1.0 sellwebapp后，需要依次输入以下配置项：
 <br>
 ```
-*  项目名称
+* 项目名称
 * 项目描述
 * 作者
-* 选择vue构建
+* 选择vue构建项目
 * 是否安装vue-router
 * 是否使用ESLint
 * 是否使用Karma + Mocha的单元测试

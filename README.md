@@ -3,7 +3,7 @@
 This is a difficult project for vue1.0.
 
 安装步骤
-———————————-
+-----------------------------------
 
 # install vue-cli
 npm install -g vue-cli

@@ -3,7 +3,7 @@
 This is a difficult project for vue1.0.
 ----------------------------
 
-##运行项目
+## 运行项目
 
 ```
 #install dependencies
@@ -15,9 +15,9 @@ npm run dev
 使用用技术：vue1.x＋webpack1.x＋es6＋vue-resource＋vue-router＋css3＋html5
 <br>
 
-##项目创建步骤
+## 项目创建步骤
 
-###安装vue-cli脚手架工具
+### 安装vue-cli脚手架工具
 
 运行如下命令，即可创建项目sellwebapp，并通过本地8080端口启动项目
 <br>
@@ -58,7 +58,7 @@ npm run dev
 安装成功后，即可执行npm run dev运行项目。
 <br>
 
-##项目功能模块
+## 项目功能模块
 
 ```
 * 商品列表页
@@ -67,7 +67,7 @@ npm run dev
 * 商家详情页
 ```
 
-##License
+## License
 
 The sellwebapp is available under the MIT license. See the LICENSE file for more info.
 

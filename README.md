@@ -2,7 +2,7 @@
 ============================
 This is a difficult project for vue1.0.
 ----------------------------
-<br>
+
 ##运行项目
 <br>
 ```
@@ -16,10 +16,9 @@ npm run dev
 <br>
 
 ##项目创建步骤
-<br>
 
 ###安装vue-cli脚手架工具
-<br>
+
 运行如下命令，即可创建项目sellwebapp，并通过本地8080端口启动项目
 <br>
 ```
@@ -69,7 +68,7 @@ npm run dev
 ```
 
 ##License
-<br>
+
 The sellwebapp is available under the MIT license. See the LICENSE file for more info.
 
 

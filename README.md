@@ -3,9 +3,7 @@
 This is a difficult project for vue1.0.
 ----------------------------
 <br>
-
 ##运行项目
-
 <br>
 ```
 #install dependencies
@@ -15,7 +13,7 @@ npm run dev
 ```
 <br>
 
-使用用技术：vue1.x＋webpack1.x＋es6＋vue-resource＋vue-router＋css3＋html5
+使用用技术: vue1.x＋webpack1.x＋es6＋vue-resource＋vue-router＋css3＋html5
 <br>
 ##项目创建步骤
 <br>
@@ -44,7 +42,7 @@ npm install
 npm run dev
 ```
 <br>
-在运行 vue init webpack#1.0 sellwebapp后，需要依次输入以下配置项：
+在运行 vue init webpack#1.0 sellwebapp后，需要依次输入以下配置项:
 <br>
 ```
 * 项目名称

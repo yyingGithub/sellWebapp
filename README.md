@@ -1,18 +1,25 @@
 基于vue的仿饿了吗外卖web app
-
+============================
 This is a difficult project for vue1.0.
-
+----------------------------
+<br>
+```
 #install dependencies
+<br>
 npm install
 #start the server http//localhost:8080 and run the code
 npm run dev
-使用用技术：vue1.x＋webpack1.x＋es6＋vue-resource＋vue-router＋css3＋html5 
-
+```
+使用用技术：vue1.x＋webpack1.x＋es6＋vue-resource＋vue-router＋css3＋html5
+<br>
+<br>
 学习教程
-
-安装vue-cli脚手架工具
-
-运行如下命令，即可创建项目sellwebapp，并通过本地8080端口启动项目 
+=============================
+##安装vue-cli脚手架工具
+<br>
+运行如下命令，即可创建项目sellwebapp，并通过本地8080端口启动项目
+<br>
+```
 #see node version
 node -v
 #install vue-cli
@@ -31,7 +38,10 @@ ls -l -a
 npm install
 #run the project
 npm run dev
-在运行 vue init webpack#1.0 sellwebapp后，需要依次输入以下配置项： 
+```
+在运行 vue init webpack#1.0 sellwebapp后，需要依次输入以下配置项：
+<br>
+```
 *项目名称
 *项目描述
 *作者
@@ -40,5 +50,5 @@ npm run dev
 *是否使用ESLint
 *是否使用Karma + Mocha的单元测试
 *是否使用Nightwatch e2e测试
+```
 安装成功后，即可执行npm run dev运行项目。
-

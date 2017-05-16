@@ -14,6 +14,7 @@ npm run dev
 使用技术：vue1.x＋webpack1.x＋es6＋vue-resource＋vue-router＋css3＋html5
 <br>
 <br>
+
 学习教程
 =============================
 ##安装vue-cli脚手架工具
@@ -46,14 +47,14 @@ npm run dev
 <br>
 
 ```
-*项目名称
-*项目描述
-*作者
-*选择vue构建
-*是否安装vue-router
-*是否使用ESLint
-*是否使用Karma + Mocha的单元测试
-*是否使用Nightwatch e2e测试
+* 项目名称
+* 项目描述
+* 作者
+* 选择vue构建
+* 是否安装vue-router
+* 是否使用ESLint
+* 是否使用Karma + Mocha的单元测试
+* 是否使用Nightwatch e2e测试
 ```
 
 安装成功后，即可执行npm run dev运行项目。

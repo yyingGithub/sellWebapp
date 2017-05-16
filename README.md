@@ -4,7 +4,7 @@ This is a difficult project for vue1.0.
 ----------------------------
 
 ##运行项目
-<br>
+
 ```
 #install dependencies
 npm install
@@ -59,7 +59,7 @@ npm run dev
 <br>
 
 ##项目功能模块
-<br>
+
 ```
 * 商品列表页
 * 商品详情页

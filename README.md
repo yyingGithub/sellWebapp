@@ -10,8 +10,8 @@ npm install
 #start the server http//localhost:8080 and run the code
 npm run dev
 ```
-
-使用用技术：vue1.x＋webpack1.x＋es6＋vue-resource＋vue-router＋css3＋html5
+<br>
+使用技术：vue1.x＋webpack1.x＋es6＋vue-resource＋vue-router＋css3＋html5
 <br>
 <br>
 学习教程

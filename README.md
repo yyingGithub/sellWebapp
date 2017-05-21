@@ -1,6 +1,6 @@
 基于vue的仿饿了吗外卖web app
 ============================
-This is a difficult project for vue1.0.
+This is a senior project for vue1.0.
 ----------------------------
 
 ## 运行项目
